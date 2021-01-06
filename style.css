@@ -1,0 +1,141 @@
+body {
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+  }
+  h1 {
+    font-size: 50px;
+  }
+  .s12{
+      padding-top: 70px;
+      height: 450px;
+      padding-bottom: 100px;
+      /*border: 1px solid coral;*/
+  }
+
+  .half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    /*border: 1px solid coral;*/
+  }
+  .link-button {
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    
+  }
+  .s33{
+    padding-top: 250px;
+    height: 600px;
+    padding-bottom: 250px;
+    /*border: 1px solid coral;*/
+}
+  .onethird-width{
+   float:left;
+   box-shadow: 10px 10px 40px rgb(212, 211, 211);
+   /*border: 1px solid black ;*/
+   
+   border-radius: 10px;
+   height: 75%;
+   width: 27%;
+   margin-right: 50px;
+   margin-left: 25px;
+   margin-bottom: 90px;
+   background-color: white;
+   padding-top: 20px;
+   padding-left: 20px;
+   
+  }
+  .adjust{
+    padding-left: 25px;
+  }
+  .sp{
+    text-align: center;
+  }
+  .rdev{
+    padding-left: 100px;
+    padding-bottom: 100px;
+  }
+
+  .orange-highlight{
+    color:red;
+  }
+  .s34{
+    padding-top: 100px;
+    height: 600px;
+    padding-bottom: 250px;
+    /*border: 1px solid coral;*/
+}
+#last{
+  width :60%;
+  height: 300px;
+  /*border: 1px solid green;*/
+  margin-left: 350px;
+  background-image: url("images/live.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  
+}
+.cwhite{
+  margin-top:50px;
+  margin-left: 100px;
+  float:left;
+  /*border:1px solid black;*/
+  width: 400px;
+  height: 50%;
+
+}
+#white{
+  color: aliceblue;
+  font-weight: 900;
+  text-align:start;
+  
+}
+#cwhite2{
+  
+}
+#t{
+  margin-top: -5px;
+}
+
+#btn{
+  margin-left: 250px;
+  margin-top: 67px;
+}
+.foot{
+  margin-top:100px;
+}
+.fdiv{
+   height: 80px;
+   margin-top:20px;
+   /*border:1px solid green;*/
+}
+
+.icon{
+  height: 100%;
+  width: 50px;
+  /*border:1px solid blue;*/
+  margin : 10px;
+  float:left;
+  padding: 10px;
+
+}
+.bottom3{
+  margin-left: 41%;
+}
+.bottom2{
+  margin-left:38%;
+}
+.bottom1{
+   margin-left: 43.5%;
+}
+/*.txt1{
+  font-size: 20px;
+}*/
+.txt2{
+  font-size: 40px;
+}
